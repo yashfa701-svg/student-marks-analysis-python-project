@@ -1,0 +1,15 @@
+# Student Marks Analysis python project 
+## Project Description 
+This project analysis student marks using python.
+## Tools used 
+- python
+- pandas
+- matplotlib
+## Features 
+- calculate total marks
+- calculate average marks
+- find highest and lowest marks
+- identify top student
+- create bar chart
+- ## project type
+- python data analysis project 
